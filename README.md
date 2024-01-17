@@ -23,11 +23,8 @@
   <p align="center">
     A fun physics simulation where you can draw planets and watch them interact!
     <br />
-    <a href="https://github.com/TSKoduru/NBodySimulation"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/TSKoduru/NBodySimulation">View Demo</a>
-    ·
     <a href="https://github.com/TSKoduru/NBodySimulation/issues">Report Bug</a>
     ·
     <a href="https://github.com/TSKoduru/NBodySimulation/issues">Request Feature</a>
@@ -110,7 +107,7 @@ This is an example of how to list things you need to use the software and how to
 All you'll need to do is run the program, which will lead to a popup containing the simulation. Click and drag to release a new planet; A white line will be drawn containing the trajectory. Planet masses are random, but are
 fairly similar. Each body will have a trail behind it; As you add more bodies, you'll be able to visualize them interact as their trails distort. Here's an example simulation with 5 bodies: <br>
 
- ![ExampleSim](Images/Example.png) <br>
+ ![ExampleSim](Images/example.png) <br>
 
  * KEYBINDS:
     * Press 'esc' to exit the simulation.
